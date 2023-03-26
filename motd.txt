@@ -1,0 +1,5 @@
+Welcome to Cartoon chimps! This latest update involves:
+-Loading Zones
+-Horror Level 2 (tp bugged)
+-Cosmetic Test
+Have fun!
